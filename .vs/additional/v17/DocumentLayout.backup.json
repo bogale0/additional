@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\additional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CF7E5-C9B6-4908-B682-6A542E02424F}|second\\second.csproj|c:\\users\\aleks\\source\\repos\\additional\\second\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06CF7E5-C9B6-4908-B682-6A542E02424F}|second\\second.csproj|solutionrelative:second\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164FB4A3-6C45-4F51-BC6F-4E293DD3130B}|first\\first.csproj|c:\\users\\aleks\\source\\repos\\additional\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164FB4A3-6C45-4F51-BC6F-4E293DD3130B}|first\\first.csproj|solutionrelative:first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 64,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\additional\\second\\Program.cs",
+              "RelativeDocumentMoniker": "second\\Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\additional\\second\\Program.cs*",
+              "RelativeToolTip": "second\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:41:30.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\additional\\first\\Program.cs",
+              "RelativeDocumentMoniker": "first\\Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\additional\\first\\Program.cs",
+              "RelativeToolTip": "first\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:34:32.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
